@@ -1,2 +1,2 @@
-# EXERC-CIOS
-Exercícios 
+# EXERCICIOS
+Exercícios das aulas.
